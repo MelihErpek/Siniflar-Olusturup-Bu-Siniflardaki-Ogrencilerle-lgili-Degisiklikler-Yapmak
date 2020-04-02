@@ -1,11 +1,4 @@
-/****************************************************************************
-**              		SAKARYA UNIVERSITY
-**              	BILGISAYAR MUHENDISLIGI BOLUMU
-**              		VERI YAPILARI
-**
-**              OGRENCI ISMI.....: Melih Erpek
-**              OGRENCI NUMARASI.: G171210393
-****************************************************************************/
+
 #ifndef  Sinif_hpp
 #define Sinif_hpp
 #include "Dugum.hpp"
